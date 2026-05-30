@@ -9,6 +9,4 @@ if num >= 1:
 if is_prime:
     print("is prime")
 else:
-    print("is not prime") 
-  
-         
+    print("is not prime")       
